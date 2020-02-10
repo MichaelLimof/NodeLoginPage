@@ -1,0 +1,6 @@
+npm init
+npm express
+npm ejs
+npm bcrypt
+npm i passport passport-local express-session express-flash
+npm i method-override
